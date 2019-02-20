@@ -1,3 +1,6 @@
+need to download dependencies by executing 
+
+npm install
 
 ## Configuration (database)
 app.use
@@ -10,4 +13,4 @@ app.use
 
 
 	
-You're gonna need to create a DB named 'nodejs' and import employee.sql
+You need to create a DB named 'nodejs' and import employee.sql
